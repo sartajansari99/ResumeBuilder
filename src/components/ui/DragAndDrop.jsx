@@ -1,4 +1,4 @@
-// src/components/ui/DragAndDrop.jsx
+
 import React from 'react';
 import { useDrag, useDrop } from 'react-dnd';
 

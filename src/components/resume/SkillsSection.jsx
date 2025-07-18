@@ -1,4 +1,3 @@
-// src/components/resume/SkillsSection.jsx
 import React from 'react';
 import { useResume } from '../../context/ResumeContext';
 import SectionCard from '../ui/SectionCard';

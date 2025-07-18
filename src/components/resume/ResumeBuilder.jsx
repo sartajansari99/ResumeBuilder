@@ -1,4 +1,3 @@
-// src/components/resume/ResumeBuilder.jsx
 import React from 'react';
 import { ResumeProvider } from '../../context/ResumeContext'
 import ResumeForm from './ResumeForm';
