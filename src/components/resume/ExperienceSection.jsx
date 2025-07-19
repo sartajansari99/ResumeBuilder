@@ -26,7 +26,7 @@ const ExperienceSection = ({ onAdd }) => {
           index={index} 
           moveItem={moveExperience}
         >
-        <div key={index} className="mb-6 p-4 border rounded-lg">
+        <div key={index} className="mb-4 p-4 border rounded-lg bg-white dark:bg-gray-700">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
             <div>
               <label className="block text-sm font-medium text-gray-700">Job Title</label>
